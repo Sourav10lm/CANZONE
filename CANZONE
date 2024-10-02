@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CANZONE - Preotosh Saha Sourav</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin: 0;
+        }
+        h2 {
+            color: #555;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        .song-folder {
+            margin: 10px 0;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.8em;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>CANZONE</h1>
+    <h2>Crazy Music Lover</h2>
+</header>
+
+<section>
+    <h2>Downloadable Songs</h2>
+    <div class="song-folder">
+        <h3>Pop Songs</h3>
+        <ul>
+            <li><a href="path/to/pop-song1.mp3" download>Pop Song 1</a></li>
+            <li><a href="path/to/pop-song2.mp3" download>Pop Song 2</a></li>
+        </ul>
+    </div>
+    <div class="song-folder">
+        <h3>Rock Songs</h3>
+        <ul>
+            <li><a href="path/to/rock-song1.mp3" download>Rock Song 1</a></li>
+            <li><a href="path/to/rock-song2.mp3" download>Rock Song 2</a></li>
+        </ul>
+    </div>
+    <div class="song-folder">
+        <h3>Jazz Songs</h3>
+        <ul>
+            <li><a href="path/to/jazz-song1.mp3" download>Jazz Song 1</a></li>
+            <li><a href="path/to/jazz-song2.mp3" download>Jazz Song 2</a></li>
+        </ul>
+    </div>
+    <!-- Add more folders as needed -->
+</section>
+
+<section>
+    <h2>My YouTube Links</h2>
+    <ul>
+        <li><a href="https://www.youtube.com/channel/your_channel_id" target="_blank">My YouTube Channel</a></li>
+        <!-- Add more YouTube links as needed -->
+    </ul>
+</section>
+
+<footer>
+    <p>&copy; 2024 Preotosh Saha Sourav</p>
+</footer>
+
+</body>
+</html>
